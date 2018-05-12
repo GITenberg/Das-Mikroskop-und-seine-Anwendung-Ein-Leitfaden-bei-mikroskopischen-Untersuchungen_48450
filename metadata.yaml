@@ -1,10 +1,16 @@
 _repo: Das-Mikroskop-und-seine-Anwendung-Ein-Leitfaden-bei-mikroskopischen-Untersuchungen_48450
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48450-h/images/cover.jpg
 creator:
   author:
     agent_name: Hager, Hermann
     gutenberg_agent_id: '44802'
     url: http://www.gutenberg.org/2009/agents/44802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48450#Das-Mikroskop-und-seine-Anwendung-Ein-Leitfaden-bei-mikroskopischen-Untersuchungen
 gutenberg_issued: '2015-03-10'
 gutenberg_type: Text
 identifiers:
